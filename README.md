@@ -1,1 +1,1 @@
-# sult-system-using-c-programming
+# result-system-using-c-programming
